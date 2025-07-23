@@ -1,0 +1,41 @@
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+body{
+    background-image: url(wall2.jpg);
+    background-size:auto;
+    color: rgb(5, 41, 48);
+}
+.btt{
+    color:rgb(37, 75, 84);
+    background-color:rgb(207, 203, 192);
+    size: 100in;
+    font-size: large;
+    font-style:oblique;
+}
+a{
+    color:rgb(37, 75, 84);
+}
+#Intro{
+    font-size: xxx-large;
+}
+.links{
+    border:  1.5px solid black;
+    padding: 20px;
+    border-radius: 80px;
+    width: 30%;
+    font-size: large;
+}
+.item {
+    margin-bottom: 10px;
+    margin-left: 2%;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  img{
+    size: 1%;
+  }
